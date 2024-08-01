@@ -1,0 +1,22 @@
+.odds {
+    /*last 2 hex characters are opacity*/
+    background-color: #F9544BB0;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#two {
+    /* 0 for transparent, 1 for opaque */
+    color: rgba(30, 170, 230, 0.8);
+    font-size: 36px;
+}
+
+.font-size {
+    font-size: 24px;
+}
+
+#four {
+    /*background-color: hsl(118, 23, 74);*/
+    /* hsl doesn't seem to work in edge */
+    background-color: #9EBEA0;
+    font-weight: bold;
+}
